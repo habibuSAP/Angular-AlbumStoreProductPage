@@ -8,5 +8,25 @@
     "id": 2,
     "artistName": "Regular Expressionists",
     "albumName": "Top, Right, Bottom, Left"
+  },
+  {
+    "id": 3,
+    "artistName": "The Prependers 3",
+    "albumName": "Opacity Zero 3"
+  },
+  {
+    "id": 4,
+    "artistName": "Regular Expressionists 4",
+    "albumName": "Top, Right"
+  },
+  {
+    "id": 5,
+    "artistName": "The Prependers 5",
+    "albumName": "Opacity Zeros"
+  },
+  {
+    "id": 6,
+    "artistName": "Regular Expressionists 6",
+    "albumName": "Top"
   }
 ]
